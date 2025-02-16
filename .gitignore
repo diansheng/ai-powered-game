@@ -1,0 +1,6 @@
+*.db
+*.pyc
+main_dummy.py
+helper.py
+__pycache__/*
+.ideas
